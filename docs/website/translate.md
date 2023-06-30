@@ -3,9 +3,26 @@ slug: /translate
 hide_table_of_contents: true
 ---
 
-# Help Translate TurboWarp
+# Translations
 
-We're looking for people to help translate TurboWarp into languages other than English. If that interests you, read on.
+Translations are currently done in our [Discord server.](https://discord.gg/NZ9MBMYTZh)
+
+If you want PenguinMod translated into your language,
+please make a suggestion there to add your language and we'll let you know what we can do.
+
+**Note that translation support is still in the process of being added to Extensions and such.**
+**Only the Home site 100% supports translations currently.**
+
+## Important {#important}
+
+Translations are done in a small sheet currently. This should hopefully allow for easy collaboration.
+
+Please try to write the translations you make yourself.
+If you don't know how to translate something, you can always leave it blank and wait to see if someone else does.
+
+We may also remove translations for people who just want special perks or clout.
+
+<!-- We're looking for people to help translate TurboWarp into languages other than English. If that interests you, read on.
 
 ## Requests to join are on hold and will be ignored {#on-hold}
 
@@ -51,4 +68,4 @@ Our translations are broken up into a different resource for each subproject:
  - `addons.json` is for the [addon settings page](https://turbowarp.org/addons) (not the addons themselves).
  - Translations for the addons themselves are maintained externally. Due to Scratch's policy on browser extensions, we will not link that page here, sorry.
  - `packager.json` is for [the packager](https://packager.turbowarp.org/).
- - `store-listings.yaml` is for the desktop app's listings in places like the [Microsoft Store](https://apps.microsoft.com/store/detail/9P4DPZGV5ZKL)
+ - `store-listings.yaml` is for the desktop app's listings in places like the [Microsoft Store](https://apps.microsoft.com/store/detail/9P4DPZGV5ZKL) -->

@@ -1,5 +1,6 @@
 :root {
-  --ifm-color-primary: #ff4c4c;
+  /* PenguinMod #00c3ff is too bright in light mode */
+  --ifm-color-primary: dodgerblue;
   --ifm-font-family-base: "Helvetica Neue", Helvetica, Arial, sans-serif;
   --ifm-container-width: 800px;
   --ifm-container-width-xl: 1000px;

@@ -1,7 +1,6 @@
 module.exports = {
   sidebar: [
     'intro',
-    'website/unshared-projects',
     'website/cloud-variables',
     {
       type: 'category',
@@ -24,7 +23,6 @@ module.exports = {
     'website/how-it-works',
     'website/javascript',
     'website/turbowarp-blocks',
-    'website/translate',
     'website/url-parameters',
     'website/scratch-accounts',
     'website/donate',

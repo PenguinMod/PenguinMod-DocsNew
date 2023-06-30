@@ -1,1 +1,1 @@
-See https://github.com/TurboWarp/docs#writing-content
+See https://github.com/PenguinMod/PenguinMod-DocsNew#writing-content

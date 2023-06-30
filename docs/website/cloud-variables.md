@@ -5,7 +5,8 @@ hide_table_of_contents: true
 
 # Cloud Variables
 
-TurboWarp has its own cloud variable server independent of Scratch.
+PenguinMod's cloud variable server is independent of Scratch.
+You cannot talk to Scratch in a PenguinMod project without the use of extensions.
 
 Some things to keep in mind:
 
@@ -21,6 +22,8 @@ Some things to keep in mind:
  - Sensing the color of the video sensing extension is disabled when cloud variables or custom extensions are used. This fixes the same issue as Scratch's "For privacy reasons, cloud variables have been disabled in this project because it contains video sensing blocks" warning.
 
 ## For bot developers and advanced users {#advanced}
+
+*This section is the same as the TurboWarp documentation.*
 
 Connecting to our servers using bots and other custom clients is acceptable, within reason.
 

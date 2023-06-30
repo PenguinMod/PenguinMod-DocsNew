@@ -1,34 +1,34 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'TurboWarp Documentation',
-  url: 'https://docs.turbowarp.org',
+  title: 'PenguinMod Documentation',
+  url: 'https://docs.penguinmod.site',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  organizationName: 'TurboWarp',
+  organizationName: 'PenguinMod',
   projectName: 'docs',
   trailingSlash: false,
   themeConfig: {
     navbar: {
-      title: 'TurboWarp Documentation',
+      title: 'PenguinMod Documentation',
       items: [
-        {
-          href: '/packager/',
-          label: 'Packager',
-          position: 'left'
-        },
+        // {
+        //   href: '/packager/',
+        //   label: 'Packager',
+        //   position: 'left'
+        // },
         {
           href: '/development/',
           label: 'Development',
           position: 'left'
         },
         {
-          href: 'https://turbowarp.org/',
-          label: 'TurboWarp',
+          href: 'https://penguinmod.site/',
+          label: 'PenguinMod',
           position: 'right'
         },
         {
-          href: 'https://github.com/TurboWarp',
+          href: 'https://github.com/PenguinMod',
           label: 'GitHub',
           position: 'right',
         },
@@ -36,6 +36,7 @@ module.exports = {
     },
     algolia: {
       // This is all supposed to be public
+      // idk what this is man ill figure it out later tbh
       appId: 'HORQ9E5CCA',
       apiKey: 'c3873ce4208edb896a31bb3e7c2cbdad',
       indexName: 'turbowarp'
@@ -55,7 +56,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: '/',
-          editUrl: 'https://github.com/TurboWarp/docs/edit/master/',
+          editUrl: 'https://github.com/PenguinMod/PenguinMod-DocsNew/edit/master/',
           breadcrumbs: false,
         },
         theme: {

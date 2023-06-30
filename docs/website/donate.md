@@ -5,8 +5,10 @@ hide_table_of_contents: true
 
 # Donate
 
-The TurboWarp project now accepts donations on GitHub https://github.com/sponsors/GarboMuffin and other places https://muffin.ink/donate
+PenguinMod currently doesn't accept donations. However, you can always support TurboWarp and Scratch for making PenguinMod possible!
 
-You should also donate to Scratch: https://scratch.mit.edu/donate
+Donate to TurboWarp: https://github.com/sponsors/GarboMuffin or https://muffin.ink/donate
+
+Donate to Scratch: https://scratch.mit.edu/donate
 
 Thank you! ❤️
